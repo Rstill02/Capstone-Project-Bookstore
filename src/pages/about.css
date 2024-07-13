@@ -1,0 +1,16 @@
+.about {
+    background-image: radial-gradient(gray, white, black);
+    margin-top: 25px;
+    margin-bottom: 75px;
+
+    background-color: black;
+    
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    margin: 5%
+}
